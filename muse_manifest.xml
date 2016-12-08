@@ -1,0 +1,22 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bluepikachu.com" resolutions="1x" timestamp="1481177455792">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="82078946" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="road.jpg" crc="390117498" seo="true" ref="index"/>
+    <file name="cactus.jpg" crc="509767820" seo="true" ref="index"/>
+    <file name="trees.jpg" crc="386417028" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="42735231" seo="true" mt="1481177428155" redirect="true"/>
+</manifest>
